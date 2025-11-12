@@ -1,6 +1,6 @@
-# vue-tuto
+# <div style="text-align:center"><a href="https://vuejs.org/" target="_blank">Vue.js</a> Tutorial Practice</div>
 
-This template should help get you started developing with Vue 3 in Vite.
+<a href="https://ckshajeeu.github.io/vuejs-official-tutorial/" target="_blank">Click to view the demo here!</a>
 
 ## Recommended IDE Setup
 

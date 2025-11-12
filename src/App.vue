@@ -1,7 +1,7 @@
 <template>
   <div style="text-align: center;margin-bottom: 25px;">
     <h1>Vue.js Tutorial</h1>
-    <h4><a href="https://vuejs.org/tutorial/#step-1">Link to official tutorial</a> (Composition, SFC)</h4>
+    <h4><a href="https://vuejs.org/tutorial/#step-1" target="_blank">Link to official tutorial</a> (Composition, SFC)</h4>
   </div>
 
   <div class="container">
