@@ -1,4 +1,4 @@
-# <div style="text-align:center"><a href="https://vuejs.org/" target="_blank">Vue.js</a> Tutorial Practice</div>
+# <a href="https://vuejs.org/" target="_blank">Vue.js</a> Tutorial Practice
 
 <a href="https://ckshajeeu.github.io/vuejs-official-tutorial/" target="_blank">Click to view the demo here!</a>
 
