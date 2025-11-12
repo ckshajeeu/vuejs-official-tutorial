@@ -1,5 +1,9 @@
 # <a href="https://vuejs.org/" target="_blank">Vue.js</a> Tutorial Practice
 
+Vue.js project created with
+```sh
+npm create vue@latest
+```
 <a href="https://ckshajeeu.github.io/vuejs-official-tutorial/" target="_blank">Click to view the demo here!</a>
 
 ## Recommended IDE Setup
